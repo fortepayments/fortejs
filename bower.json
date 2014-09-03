@@ -11,10 +11,7 @@
     "forte"
   ],
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower.json",
+    "README.md"
   ]
 }
