@@ -1,0 +1,20 @@
+{
+  "name": "fortejs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fortepayments/fortejs",
+  "authors": [
+    "Forte Payments"
+  ],
+  "description": "Securely capture payment information while maintaining complete control of your payment form and UX with Forte.js",
+  "main": "dist/forte-sb-min.js",
+  "keywords": [
+    "forte"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
