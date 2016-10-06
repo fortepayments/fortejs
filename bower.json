@@ -5,7 +5,7 @@
   "authors": [
     "Forte Payments"
   ],
-  "description": "Securely capture payment information while maintaining complete control of your payment form and UX with Forte.js",
+  "description": "Library to securely capture payment information",
   "main": "dist/forte-sb-min.js",
   "keywords": [
     "forte"
